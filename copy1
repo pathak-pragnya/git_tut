@@ -2,4 +2,8 @@ abc
 
 Login branch
 
+<<<<<<< HEAD
 repository 1
+=======
+repo 2 changes
+>>>>>>> repo2 commit
